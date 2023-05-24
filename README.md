@@ -1,6 +1,5 @@
 ![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/7c294f01-1b1a-41cf-9f32-82cb44b5ce24)
 ![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/4b740ed2-f7e0-401e-85e6-98274e224119)
-![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/84079350-fc48-4dba-a4cc-b78ed8ddb3ba)
 ![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/4e77b029-02f7-4668-8f91-9ea3903fbccc)
 ![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/2b670cf9-4ce3-4a1c-aaca-54dd35bec80e)
 ![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/56d9da5d-1fd8-4ddb-8c43-7c578eae5ea7)
@@ -12,7 +11,7 @@
 
 ![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/a8685eac-7a40-4465-99e2-165a8d77e31f)
 ![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/212d5a01-d51d-4871-953f-0816a9763a31)
-
+![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/84079350-fc48-4dba-a4cc-b78ed8ddb3ba)
 
 
 ![image](https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/83e68693-0bc2-4e00-adec-c379c05afd6a)
