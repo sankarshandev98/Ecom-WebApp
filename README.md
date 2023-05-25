@@ -16,4 +16,5 @@
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/83e68693-0bc2-4e00-adec-c379c05afd6a" alt="">
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/92f1b466-136f-4785-844e-fac6f568f369" alt="">
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/be19cb97-de5b-4353-9031-cccb67fdbe39" alt="">
+    <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/c1ca9055-82c8-46ad-a369-a4f5972b5f54" alt="">
 </div>
