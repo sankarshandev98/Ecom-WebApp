@@ -10,11 +10,11 @@
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/77b86017-3e94-4241-b3b3-f86c5271d9ef" alt="Image 9">
 </div>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/c1ca9055-82c8-46ad-a369-a4f5972b5f54" alt="">
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/a8685eac-7a40-4465-99e2-165a8d77e31f" alt="">
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/212d5a01-d51d-4871-953f-0816a9763a31" alt="">
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/84079350-fc48-4dba-a4cc-b78ed8ddb3ba" alt="">
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/83e68693-0bc2-4e00-adec-c379c05afd6a" alt="">
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/92f1b466-136f-4785-844e-fac6f568f369" alt="">
     <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/be19cb97-de5b-4353-9031-cccb67fdbe39" alt="">
-    <img src="https://github.com/sankarshandev98/Ecom-WebApp/assets/84925828/c1ca9055-82c8-46ad-a369-a4f5972b5f54" alt="">
 </div>
